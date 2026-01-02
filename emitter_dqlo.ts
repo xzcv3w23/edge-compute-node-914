@@ -1,0 +1,1 @@
+const service_dqlo = <T>(args: T): T => { return args; };
